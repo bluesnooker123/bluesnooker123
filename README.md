@@ -9,9 +9,9 @@
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 
-[![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)](https://github.com/bluesnooker123/)
-[![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://github.com/bluesnooker123/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://github.com/bluesnooker123/)
+[![Solidity](https://github.com/bluesnooker123/bluesnooker123/blob/main/solidity.png)](https://github.com/bluesnooker123/)
+[![Rust](https://github.com/bluesnooker123/bluesnooker123/blob/main/rust.png)](https://github.com/bluesnooker123/)
+[![Go](https://github.com/bluesnooker123/bluesnooker123/blob/main/go.png)](https://github.com/bluesnooker123/)
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
