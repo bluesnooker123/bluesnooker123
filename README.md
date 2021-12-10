@@ -47,6 +47,9 @@
 --- 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluesnooker123&theme=white" /> 
 <p align="center">
+<a href="https://t.me/bluesnooker" rel="nofollow">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="max-width:100%;">
+</a>&nbsp;&nbsp;
 <a href="https://join.skype.com/invite/V0Uuob1de56r" rel="nofollow">
   <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" style="max-width:100%;">
 </a>&nbsp;&nbsp;
