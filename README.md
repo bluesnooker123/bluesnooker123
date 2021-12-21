@@ -50,11 +50,11 @@
 <a href="https://t.me/bluesnooker" rel="nofollow">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="max-width:100%;">
 </a>&nbsp;&nbsp;
-<a href="https://join.skype.com/invite/V0Uuob1de56r" rel="nofollow">
-  <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" style="max-width:100%;">
-</a>&nbsp;&nbsp;
 <a href="mailto:dev333perfect@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width:100%;">
+</a>&nbsp;&nbsp;
+<a href="https://join.skype.com/invite/V0Uuob1de56r" rel="nofollow">
+  <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" style="max-width:100%;">
 </a>&nbsp;&nbsp;
 </p>
 
