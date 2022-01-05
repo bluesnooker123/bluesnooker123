@@ -8,6 +8,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-darkblue?style=flat&logo=tailwindcss&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
@@ -19,7 +20,7 @@
 [![Go](https://github.com/bluesnooker123/bluesnooker123/blob/main/go.png)](https://github.com/bluesnooker123/)
 
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
-[![C#](https://img.shields.io/badge/-CSharp-green?style=flat&logo=csharp)](https://github.com/bluesnooker123/)
+[![C#](https://img.shields.io/badge/-CSharp-green?style=flat&logo=csharp&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 
@@ -28,6 +29,7 @@
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/bluesnooker123/)
+[![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)](https://github.com/bluesnooker123/)
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/bluesnooker123/)
 [![ML](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat)](https://github.com/bluesnooker123/)
 [![AI](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/ai.png)](https://github.com/bluesnooker123/)
