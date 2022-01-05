@@ -28,6 +28,11 @@
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 
+[![PHP](https://img.shields.io/badge/-PHP-878DB8?style=flat&logo=php&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
+[![CakePHP](https://img.shields.io/badge/-CakePHP-CF3A44?style=flat&logo=cakephp&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
+[![Croogo](https://img.shields.io/badge/-Croogo-41B883??style=flat&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
+[![Storyblok](https://img.shields.io/badge/-Storyblok-0DABAC?style=flat&logo=storyblok&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
+
 [![Django](https://img.shields.io/badge/-django-black?style=flat&logo=django)](https://github.com/bluesnooker123/)
 [![Flask](https://img.shields.io/badge/-Flask-black?style=flat&logo=flask)](https://github.com/bluesnooker123/)
 [![DataScience](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/datascience.png)](https://github.com/bluesnooker123/)
