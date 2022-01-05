@@ -18,9 +18,10 @@
 [![Rust](https://github.com/bluesnooker123/bluesnooker123/blob/main/rust.png)](https://github.com/bluesnooker123/)
 [![Go](https://github.com/bluesnooker123/bluesnooker123/blob/main/go.png)](https://github.com/bluesnooker123/)
 
-[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 [![C&C++](https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
+[![C#](https://img.shields.io/badge/-CSharp-green?style=flat&logo=csharp)](https://github.com/bluesnooker123/)
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 
 [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 [![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
