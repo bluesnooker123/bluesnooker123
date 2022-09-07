@@ -53,7 +53,7 @@
 [![PyCharm](https://github.com/SvenCelin/SvenCelin/blob/master/Badges/pycharm.png)](https://github.com/bluesnooker123/)
 
 --- 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluesnooker123&theme=white&hide=jupyter notebook,php" /> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluesnooker123&theme=white&hide=jupyter%20notebook,php" /> 
 <p align="center">
 <a href="https://t.me/bluesnooker1" rel="nofollow">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="max-width:100%;">
