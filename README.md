@@ -67,7 +67,7 @@
 </p>
 
 
-<img align="right" alt="bluesnooker123's Github Stats" style="width: 58%;" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bluesnooker123&show_icons=true&hide_border=true" /><br />
+<img align="right" alt="bluesnooker123's Github Stats" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bluesnooker123&show_icons=true&hide_border=true" /><br />
 
 
 [github]: https://github.com/bluesnooker123/
