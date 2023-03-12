@@ -24,9 +24,10 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 [![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/)
 
-[![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
-[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
+[![NextJS](https://img.shields.io/badge/NextJS-000000?style=flat&logo=nextdotjs&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 [![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
+[![VueJS](https://img.shields.io/badge/VueJS-41B883??style=flat&logo=vue.js&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 
 [![PHP](https://img.shields.io/badge/-PHP-878DB8?style=flat&logo=php&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
 [![CakePHP](https://img.shields.io/badge/-CakePHP-CF3A44?style=flat&logo=cakephp&logoColor=white&link=https://github.com/bluesnooker123/)](https://github.com/bluesnooker123/) 
